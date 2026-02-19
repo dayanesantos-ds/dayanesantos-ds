@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Dayane Santos
+# Olá!  Eu sou a Dayane Santos
 
 Analista de Dados com foco em *Business Intelligence*, atuando na organização, transformação e visualização de dados para apoiar a tomada de decisão.
 
@@ -10,49 +10,49 @@ Sou pós-graduanda em *Análise de Dados e Inteligência Artificial* e estou em 
 
 ## 🔗 Vamos nos conectar
 
-- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/dayanesantos-ds/) ou me mandar um  [e-mail](daysantos.ptg@gmail.com)
-- Gostaria de conhecer mais sobre o meu trabalho? Confira meu portifólio [Aqui](https://dayanesantos-portifolio.lovable.app/)
+• Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/dayanesantos-ds/) ou me mandar um  [e-mail](daysantos.ptg@gmail.com)
+• Gostaria de conhecer mais sobre o meu trabalho? Confira meu portifólio [Aqui](https://dayanesantos-portifolio.lovable.app/)
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 💡 Habilidades Técnicas
 
-- *Business Intelligence:* Power BI (Power Query, DAX, Modelagem de Dados)
-- *Análise de Dados:* Excel 
-- *Banco de Dados:* SQL (análise e projetos guiados)
-- *Programação:* Python (análise e projetos guiados)
-- *Dados:* ETL / ELT, definição de KPIs, estruturação de dados
+• *Business Intelligence:* Power BI (Power Query, DAX, Modelagem de Dados)
+• *Análise de Dados:* Excel 
+• *Banco de Dados:* SQL (análise e projetos guiados)
+• *Programação:* Python (análise e projetos guiados)
+• *Dados:* ETL / ELT, definição de KPIs, estruturação de dados
 
 ---
 
 ## 📊 Projetos em Destaque
 
-- 📈 *Dashboards em Power BI*  
+• *Dashboards em Power BI*  
   Construção de relatórios interativos com foco em KPIs e indicadores de negócio.
 
-- 🛒 *Modelagem de Dados – E-commerce*  
+• *Modelagem de Dados – E-commerce*  
   Estruturação de dados para análise de pedidos, clientes, produtos e fornecedores.
 
-- 🐍 *Análise de Dados com Python*  
+• *Análise de Dados com Python*  
   Limpeza, transformação e análise exploratória de dados em projetos práticos.
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Power BI Avançado (DAX e performance)
-- SQL para análise de dados
-- Python aplicado à análise de dados
-- Fundamentos de Machine Learning
+• Power BI Avançado (DAX e performance)
+• SQL para análise de dados
+• Python aplicado à análise de dados
+• Fundamentos de Machine Learning
 
 ---
 
 ## ✨ Sobre mim
 
 - 📊 Gosto de transformar dados em decisões claras
-- 🧠 Perfil analítico, disciplinado e orientado a resultados
+- ✍️ Perfil analítico, disciplinado e orientado a resultados
 - ☕ Café + dados = produtividade
-- 🎯 Foco em impacto e aprendizado contínuo
+- 📍 Foco em impacto e aprendizado contínuo
 
 ---
 
