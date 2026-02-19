@@ -56,4 +56,4 @@ Sou pós-graduanda em *Análise de Dados e Inteligência Artificial* e estou em 
 
 ---
 
-📌 *Busco oportunidades remotas ou híbridas na área de dados em Portugal - PT *, onde eu possa continuar evoluindo tecnicamente e gerar valor por meio da análise de dados.
+📌 Busco oportunidades remotas ou híbridas na área de dados em Portugal - PT , onde eu possa continuar evoluindo tecnicamente e gerar valor por meio da análise de dados.
